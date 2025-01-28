@@ -12,12 +12,12 @@ export default function Home() {
           <h2 className="text-3xl md:text-5xl lg:text-6xl xl:text-7xl mb-2 font-bold text-white">Name</h2>
         </div>
       </div>
-      <div className="md:absolute md:bottom-10 md:left-0 w-full z-[3]">
+      <div className="absolute bottom-10 md:left-0 w-full z-[3]">
         <div className="container mx-auto relative px-8 lg:px-0">
           <div className="flex flex-col md:flex-row md:items-stretch justify-between">
               <div className="md:w-1/2 lg:w-1/3 bg-white rounded-lg text-center border border-gray-200">
                 <div className="p-4">
-                  <div className="my-4 text-lg text-gray-500">WelcomeText</div>
+                  <div className="mt-4 mb-8 text-gray-500 md:my-4">WelcomeText</div>
                   <div className="my-2 text-4xl text-gray-500 font-handwritten">Warmly</div>
                   <div className="mt-2 text-sm text-gray-500">Host Name</div>
                 </div>
