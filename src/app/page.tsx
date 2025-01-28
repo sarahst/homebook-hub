@@ -7,7 +7,7 @@ export default function Home() {
         <div className="flex items-center justify-center md:justify-end py-4">
           {/* Get Help Button */}
         </div>
-        <div className="hero__text md:h-[50vh] flex flex-col justify-center">
+        <div className="hero__text my-10 md:my-0 md:h-[50vh] flex flex-col justify-center">
           <div className="text-lg lg:text-2xl text-white">Welcome to</div>
           <h2 className="text-3xl md:text-5xl lg:text-6xl xl:text-7xl mb-2 font-bold text-white">Name</h2>
         </div>
